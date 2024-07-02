@@ -1,0 +1,5 @@
+id,firstname,lastname,username,email,admin,active,language_code,group_ids
+1,Brian,West,bwest,user1@upmind.com,0,1,en,
+2,Freddy,East,feast,user2@upmind.com,1,1,en,
+3,Jack,Black,jblack,user3@upmind.com,1,1,en,
+4,John,Smith,jsmith,user4@upmind.com,0,1,en,

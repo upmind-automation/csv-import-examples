@@ -1,0 +1,11 @@
+id,first_name,last_name,has_login,verified,email,phone_phone,phone_country_code,phone_verified,address_address_1,address_city,address_postcode,address_country_code,address_verified,company_name,company_verified,currency_code
+1,Leon,Gomez,1,0,client1@upmind-client.com,NULL,NULL,NULL,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+1,Leon,Gomez,1,0,client1@upmind-client.com,NULL,NULL,NULL,Plovdiv,Plovdiv,1110,BG,0,NULL,NULL,GBP
+1,Leon,Gomez,1,0,client1@upmind-client.com,NULL,NULL,NULL,Sliven,Sliven,1130,BG,0,NULL,NULL,GBP
+1,Leon,Gomez,1,0,client1@upmind-client.com,NULL,NULL,NULL,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+1,Leon,Gomez,1,0,client1-second@upmind-client.com,NULL,NULL,NULL,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+2,Micky,Fernandez,1,0,client2@upmind-client.com,NULL,NULL,NULL,Sofia,Sofia,1220,BG,0,NULL,NULL,USD
+3,Ivan,Grozni,1,0,client3@upmind-client.com,NULL,NULL,NULL,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+4,Richard,Diaz,1,1,client4@upmind-client.com,888777777,359,0,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+4,Richard,Diaz,1,1,client4@upmind-client.com,888777777,359,0,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP
+4,Richard,Diaz,1,1,client4@upmind-client.com,888777777,359,0,Sofia,Sofia,1220,BG,0,NULL,NULL,GBP

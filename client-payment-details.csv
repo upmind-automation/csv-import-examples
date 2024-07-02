@@ -1,0 +1,5 @@
+id,client_id,payment_method_name,gateway_provider_code,is_default,allow_auto_payment,imported_address_id,card_type,card_last4,card_expire_date,payment_method_token,customer_reference,stripe_setup_intent,stripe_payment_method_type,address_1,address_2,country_code,region_code,postcode
+1,1,Visa •••• 4242,PayPal_Rest,1,1,61051,visa,4242,11/2023,CARD-39D58239H37722525MUAD6HI,,,,Varna,,BG,13,4400
+2,2,Paypal - pm_1NpTxkEZLEAqFQ2mTqZcDC6c,Stripe_PaymentIntents,0,1,,,DC6c,,pm_1NpTxkEZLEAqFQ2mTqZcDC6c,cus_OcjQJtdNFORBpu,,paypal,,,,,
+3,3,Visa ending 4242,Stripe_PaymentIntents,0,1,,visa,4242,11/2025,pm_1NpTyIEZLEAqFQ2mjzb2Gduq,cus_OcjQTAvJ4Ojbuw,,card,,,,,
+4,4,Visa •••• 4242,Stripe_PaymentIntents,0,1,61050,visa,4242,11/2029,pm_1NpTymFSPY1r1zi8sEpl32XG,cus_OcjRNc27z0bRsC,seti_1NpTyoFSPY1r1zi86UsAyzql,,Sofia,,BG,17,1404
